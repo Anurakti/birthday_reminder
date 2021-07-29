@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/birthday_reminder/static/css/main.2915b085.chunk.css",
+    "main.js": "/birthday_reminder/static/js/main.d747cebc.chunk.js",
+    "main.js.map": "/birthday_reminder/static/js/main.d747cebc.chunk.js.map",
+    "runtime-main.js": "/birthday_reminder/static/js/runtime-main.4ce295c1.js",
+    "runtime-main.js.map": "/birthday_reminder/static/js/runtime-main.4ce295c1.js.map",
+    "static/js/2.fc12452d.chunk.js": "/birthday_reminder/static/js/2.fc12452d.chunk.js",
+    "static/js/2.fc12452d.chunk.js.map": "/birthday_reminder/static/js/2.fc12452d.chunk.js.map",
+    "index.html": "/birthday_reminder/index.html",
+    "static/css/main.2915b085.chunk.css.map": "/birthday_reminder/static/css/main.2915b085.chunk.css.map",
+    "static/js/2.fc12452d.chunk.js.LICENSE.txt": "/birthday_reminder/static/js/2.fc12452d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4ce295c1.js",
+    "static/js/2.fc12452d.chunk.js",
+    "static/css/main.2915b085.chunk.css",
+    "static/js/main.d747cebc.chunk.js"
+  ]
+}
